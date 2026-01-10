@@ -1,0 +1,12 @@
+# Maven
+backend/target/
+backend/*.iml
+
+# IntelliJ
+.idea/
+backend/.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
